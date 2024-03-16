@@ -27,5 +27,7 @@
 8. Kabel micro USB
 
 ### Board Schematic
+https://github.com/Ramdan0811/posttest1-praktikum-iot-unmul-2024/issues/1#issue-2173294341
 
-Kabel micro USB
+### Link Video
+https://youtu.be/kFHIYBUBNNM?si=P9Hhh839nCDUc0vu 
